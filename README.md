@@ -1,6 +1,5 @@
 # Maven sample app
-#added FROM gIThUB
-#actual GitHub
+#added From Local
 ## Installation
 
 - Install Java
